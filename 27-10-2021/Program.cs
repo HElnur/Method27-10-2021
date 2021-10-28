@@ -64,7 +64,7 @@ namespace _27_10_2021
         {
 
             
-            int[] numberChar = new int[2];
+            int[] numberChar = new int[text.Length];
 
             for (int i = 0; i < text.Length; i++)
             {
